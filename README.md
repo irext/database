@@ -4,4 +4,4 @@ This repository contains the IRext remote control index and IR binary code.
 
 - binaries : The IR binary code
 - db : IRext index data SQL script for MySQL and SQLite3 file
-- temp : Middle objects to generating binary code, eg. procotol xml descriptors
+- temp : Middle objects to generating binary code, eg. protocol xml descriptors
