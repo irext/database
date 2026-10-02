@@ -1,4 +1,4 @@
-# IRext database
+# IRext Offline Database
 
 This repository contains the IRext remote control index and IR binary code.
 
